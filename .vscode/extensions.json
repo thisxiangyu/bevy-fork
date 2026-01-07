@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "rust-lang.rust-analyzer",      // Rust 代码分析
+        "tamasfe.even-better-toml",     // toml 编辑增强
+        "vadimcn.vscode-lldb"           // C/Rust项目调试
+    ]
+}
